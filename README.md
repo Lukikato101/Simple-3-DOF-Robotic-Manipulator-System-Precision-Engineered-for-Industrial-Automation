@@ -577,16 +577,3 @@ If you use this project in research or publications, please cite:
 **Status**: ✅ Production Ready
 
 ---
-
-### Notes for README Customization
-
-Before publishing, update the following sections with your actual information:
-
-1. **Email Address**: Replace `[your.email@example.com]`
-2. **LinkedIn Profile**: Add your LinkedIn URL
-3. **GitHub Username**: Replace `yourusername`
-4. **Portfolio Website**: Add your portfolio link
-5. **Contact Information**: Add your preferred contact methods
-6. **Project-Specific Details**: Adjust specifications if different
-7. **Repository URL**: Update to actual GitHub repository
-
